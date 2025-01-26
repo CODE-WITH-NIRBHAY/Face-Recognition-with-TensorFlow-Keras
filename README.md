@@ -40,20 +40,13 @@ The dataset should be organized in folders, with each folder representing a diff
 
 ```
 dataset/
-<br>
     person_1/
-    <br>
-        image1.jpg
-        <br>
+      image1.jpg
         image2.jpg
-        <br>
         ...
     person_2/
-    <br>
         image1.jpg
-        <br>
         image2.jpg
-        <br>
         ...
     ...
 ```
